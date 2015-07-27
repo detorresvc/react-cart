@@ -1,0 +1,36 @@
+{
+  "name": "learn-alt",
+  "version": "1.0.0",
+  "description": "learning alt react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alt",
+    "react"
+  ],
+  "author": "vincent de torres",
+  "license": "MIT",
+  "dependencies": {
+    "alt": "^0.17.1",
+    "bootstrap": "^3.3.5",
+    "jquery": "^2.1.4",
+    "react": "^0.13.3",
+    "react-bootstrap": "^0.24.0"
+  },
+  "devDependencies": {
+    "babel-core": "^5.8.3",
+    "babel-loader": "^5.3.2",
+    "babel-runtime": "^5.8.3",
+    "css-loader": "^0.15.5",
+    "file-loader": "^0.8.4",
+    "font-awesome": "^4.3.0",
+    "font-awesome-webpack": "0.0.3",
+    "node-libs-browser": "^0.5.2",
+    "style-loader": "^0.12.3",
+    "url-loader": "^0.5.6",
+    "webpack": "^1.10.1",
+    "webpack-dev-server": "^1.10.1"
+  }
+}
